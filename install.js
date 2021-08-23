@@ -15,6 +15,7 @@ installBtn.addEventListener('click', (e) => {
         if (choiceResult.outcome==='acceptee'){
             console.log("instalcion acceptee")
         }
-        else if (choiceResult.outcome==='')
+        else {console.log("instalacion non acceptee")}
+        dererredPrompt = null
     })
 })

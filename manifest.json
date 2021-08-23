@@ -3,7 +3,7 @@
     "version":"1.0",
     "name": "App de Diana",
     "display":"fullscreen",
-    "start-url":"/",
+    "start_url":"/",
     "scope":"/",
     "theme_color":"#0DB",
     "background_color":"#000",
